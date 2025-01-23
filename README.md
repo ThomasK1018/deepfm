@@ -43,23 +43,22 @@ Clone the repository:
     cd deepfm
     ```
 
-## Contributing
-If you use this model or code in your research or work, please cite the following paper:
-```
-@article{author2020deepfm,
-  title={DeepFM: A Factorization-Machine based Neural Network for CTR Prediction},
-  author={Author, Firstname and Author, Secondname and Author, Thirdname},
-  journal={Journal of Machine Learning},
-  volume={123},
-  number={4},
-  pages={567--589},
-  year={2020},
-  publisher={Publisher Name}
-}
-
-```
-
-
 ## Usage
 
 Use it like normal sklearn classifier. The idea of this project is to provide a convenient classification with DeepFM.
+
+
+## Contributing
+If you use this model or code in your research or work, please cite the following paper:
+```
+@misc{guo2017deepfmfactorizationmachinebasedneural,
+      title={DeepFM: A Factorization-Machine based Neural Network for CTR Prediction}, 
+      author={Huifeng Guo and Ruiming Tang and Yunming Ye and Zhenguo Li and Xiuqiang He},
+      year={2017},
+      eprint={1703.04247},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/1703.04247}, 
+}
+
+```
