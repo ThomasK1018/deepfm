@@ -9,7 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -42,6 +42,22 @@ Clone the repository:
     git clone https://github.com/ThomasK1018/deepfm.git
     cd deepfm
     ```
+
+## Contributing
+If you use this model or code in your research or work, please cite the following paper:
+```
+@article{author2020deepfm,
+  title={DeepFM: A Factorization-Machine based Neural Network for CTR Prediction},
+  author={Author, Firstname and Author, Secondname and Author, Thirdname},
+  journal={Journal of Machine Learning},
+  volume={123},
+  number={4},
+  pages={567--589},
+  year={2020},
+  publisher={Publisher Name}
+}
+
+```
 
 
 ## Usage
